@@ -45,15 +45,15 @@ $text-dark: #ffffff;
 @media (prefers-color-scheme: dark) {
   body {
     background: $background-dark;
-    color: $text-dark !important;
+    color: $text-dark;
   }
 
   a{
-    color: $text-dark !important;
+    color: $text-dark;
   }
 
   a:hover {
-    color: $highlight-dark !important;
+    color: $highlight-dark;
   }
 
   h1#home-title {
@@ -63,11 +63,11 @@ $text-dark: #ffffff;
 
 @media (prefers-color-scheme: light) {
   body {
-    background: $background-light !important;
+    background: $background-light;
   }
 
   a:hover {
-    color: $highlight-light !important;
+    color: $highlight-light;
   }
 
   h1#home-title {
