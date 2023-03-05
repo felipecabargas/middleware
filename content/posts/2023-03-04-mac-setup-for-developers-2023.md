@@ -169,7 +169,7 @@ cp .zshrc ~/.zshrc
 
 Change your theme in `.zshrc` or use `rubyist` (made by yours truly):
 
-![rubyist](/blog/rubyist.gif)
+![rubyist](/blog/rubyist.png)
 
 ```bash
 git clone git@github.com:felipecabargas/oh-my-zsh-rubyist-theme.git
