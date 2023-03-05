@@ -6,7 +6,7 @@ tags:
   - development
 ---
 
-![rubyist](/blog/rubyist.gif)
+![desk](/blog/desk.jpg)
 
 Recently I got a new-and-shiny _M2 Max MacBook Pro_ for my personal use. This was my first time on Apple Silicon since I returned my DTK (_sad, I know_). This meant I needed to move stuff from other computers and install everything again. This gave me the perfect oportunity to learn about new tools, apps and other tips that I think might be useful to you setting up your new devices.
 
