@@ -1,6 +1,6 @@
-baseURL = 'https://felipe.codes/blog/'
+baseURL = 'https://felipe.dk/blog/'
 languageCode = 'en'
-title = 'blog@felipe.codes'
+title = 'blog@felipe.dk'
 theme = "archie"
 copyright = "© Felipe Cabargas"
 
@@ -39,7 +39,7 @@ paginate = 3
 
 [[menu.main]]
 name = "Home"
-url = "https://felipe.codes"
+url = "https://felipe.dk"
 weight = 1
 
 [[menu.main]]

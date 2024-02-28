@@ -8,7 +8,7 @@ tags:
 
 ![Dark Mode](/blog/darkmode.gif)
 
-One of the features I loved about the new theme of the blog, was the auto-support for System-based Dark Mode. I wanted to also implement a similar theme on my [main homepage](https://felipe.codes).
+One of the features I loved about the new theme of the blog, was the auto-support for System-based Dark Mode. I wanted to also implement a similar theme on my [main homepage](https://felipe.dk).
 
 Sadly, the implementation in the blog uses Javascript, and as a _extremely bad_ frontender I prefer to always avoid it, specially if it involves localStorage and I have to change the CSS anyways.
 

@@ -257,7 +257,7 @@ Then open the file in an editor and add the following (replace with your data)
 ```conf
 [user]
   name   = A. Felipe Cabargas
-  email  = me@felipe.codes
+  email  = me@felipe.dk
 [github]
   user   = felipecabargas
 [init]
@@ -275,4 +275,4 @@ I was about to write a section on this but GitHub's help center has waaaay bette
 
 ---
 
-I hope this has been helpful for you, and feel free to contact me (email me [me@felipe.codes](mailto:me@felipe.codes)) if you have any questions or suggestions to improve on this!
+I hope this has been helpful for you, and feel free to contact me (email me [me@felipe.dk](mailto:me@felipe.dk)) if you have any questions or suggestions to improve on this!
